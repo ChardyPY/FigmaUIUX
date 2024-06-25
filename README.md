@@ -7,7 +7,6 @@ with others through the Forum menu and also personal information edit.
 ## File Structure
 - `FastDry (Kel. Kami Berempat).fig`: The main Figma design file.
 - `README.md`: This file, providing an overview of the project.
-- `LICENSE`: The license for this project.
 - `.gitignore`: Git ignore file to exclude unnecessary files.
 
 ## Getting Started
