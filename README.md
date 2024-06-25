@@ -7,7 +7,6 @@ with others through the Forum menu and also personal information edit.
 ## File Structure
 - `FastDry (Kel. Kami Berempat).fig`: The main Figma design file.
 - `README.md`: This file, providing an overview of the project.
-- `.gitignore`: Git ignore file to exclude unnecessary files.
 
 ## Getting Started
 1. Clone this repository to your local machine.
