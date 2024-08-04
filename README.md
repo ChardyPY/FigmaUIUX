@@ -8,6 +8,10 @@ with others through the Forum menu and also personal information edit.
 - `FastDry (Kel. Kami Berempat).fig`: The main Figma design file.
 - `README.md`: This file, providing an overview of the project.
 
+## Contributions
+- Designing the pages according to what our users needed
+- Made the user navigation flow in the prototype and how pages are connected to one another
+
 ## Getting Started
 1. Clone this repository to your local machine.
    ```sh
